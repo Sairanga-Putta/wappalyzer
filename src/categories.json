@@ -1,4 +1,6 @@
 {
+  "$schema":"../schema.json",
+  "categories":{
   "1": {
     "groups": [
       3
@@ -771,4 +773,6 @@
     "name": "Fundraising & donations",
     "priority": 9
   }
+  },
+  "technology":""
 }
